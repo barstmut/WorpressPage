@@ -116,7 +116,7 @@ var data = {
     }],
   "tags":[{
       "function":"__gct",
-      "vtp_trackingId":"G-L1FJR9DSDZ",
+      "vtp_trackingId":"G-ZZSG4J04DE",
       "vtp_sessionDuration":0,
       "vtp_googleSignals":["macro",1],
       "vtp_foreignTld":["macro",2],
@@ -127,42 +127,42 @@ var data = {
     },{
       "function":"__get",
       "vtp_eventName":"click",
-      "vtp_settings":["map","streamId","G-L1FJR9DSDZ","eventParameters",["map","link_id",["macro",6],"link_classes",["macro",7],"link_url",["macro",8],"link_domain",["macro",9],"outbound",true]],
+      "vtp_settings":["map","streamId","G-ZZSG4J04DE","eventParameters",["map","link_id",["macro",6],"link_classes",["macro",7],"link_url",["macro",8],"link_domain",["macro",9],"outbound",true]],
       "vtp_deferrable":false,
       "tag_id":17
     },{
       "function":"__get",
       "vtp_eventName":"file_download",
-      "vtp_settings":["map","streamId","G-L1FJR9DSDZ","eventParameters",["map","link_id",["macro",6],"link_text",["macro",11],"link_url",["macro",8],"file_name",["macro",12],"file_extension",["macro",10]]],
+      "vtp_settings":["map","streamId","G-ZZSG4J04DE","eventParameters",["map","link_id",["macro",6],"link_text",["macro",11],"link_url",["macro",8],"file_name",["macro",12],"file_extension",["macro",10]]],
       "vtp_deferrable":false,
       "tag_id":24
     },{
       "function":"__get",
       "vtp_eventName":["template","video_",["macro",13]],
-      "vtp_settings":["map","streamId","G-L1FJR9DSDZ","eventParameters",["map","video_url",["macro",14],"video_title",["macro",15],"video_provider",["macro",16],"video_current_time",["macro",17],"video_duration",["macro",18],"video_percent",["macro",19],"visible",["macro",20]]],
+      "vtp_settings":["map","streamId","G-ZZSG4J04DE","eventParameters",["map","video_url",["macro",14],"video_title",["macro",15],"video_provider",["macro",16],"video_current_time",["macro",17],"video_duration",["macro",18],"video_percent",["macro",19],"visible",["macro",20]]],
       "vtp_deferrable":false,
       "tag_id":27
     },{
       "function":"__get",
       "vtp_eventName":"view_search_results",
-      "vtp_settings":["map","streamId","G-L1FJR9DSDZ","eventParameters",["map","search_term",["macro",21]]],
+      "vtp_settings":["map","streamId","G-ZZSG4J04DE","eventParameters",["map","search_term",["macro",21]]],
       "vtp_deferrable":true,
       "tag_id":32
     },{
       "function":"__get",
       "vtp_eventName":"scroll",
-      "vtp_settings":["map","streamId","G-L1FJR9DSDZ","eventParameters",["map","percent_scrolled",["macro",22]]],
+      "vtp_settings":["map","streamId","G-ZZSG4J04DE","eventParameters",["map","percent_scrolled",["macro",22]]],
       "vtp_deferrable":false,
       "tag_id":35
     },{
       "function":"__get",
       "vtp_eventName":"page_view",
-      "vtp_settings":["map","streamId","G-L1FJR9DSDZ","eventParameters",["map","page_referrer",["macro",24]]],
+      "vtp_settings":["map","streamId","G-ZZSG4J04DE","eventParameters",["map","page_referrer",["macro",24]]],
       "vtp_deferrable":false,
       "tag_id":38
     },{
       "function":"__dlm",
-      "vtp_userInput":["list",["map","key","gtm.gtagReferrer.G-L1FJR9DSDZ","value",["macro",24]]],
+      "vtp_userInput":["list",["map","key","gtm.gtagReferrer.G-ZZSG4J04DE","value",["macro",24]]],
       "tag_id":39
     },{
       "function":"__lcl",
@@ -345,7 +345,7 @@ b=0>c?a.href:a.href.substr(0,c)}return b},oe=function(a){var b=H.createElement("
 e=oe(a),f=a.split(/[?#]/)[0],h=e.search,k=e.hash;"?"===h[0]&&(h=h.substring(1));"#"===k[0]&&(k=k.substring(1));h=c(h);k=c(k);""!==h&&(h="?"+h);""!==k&&(k="#"+k);var l=""+f+h+k;"/"===l[l.length-1]&&(l=l.substring(0,l.length-1));return l};var qe=new RegExp(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i),re=new RegExp(/support|noreply/i),se=["SCRIPT","IMG","SVG","PATH","BR"],te=["BR"];function ue(a){var b;if(a===H.body)b="body";else{var c;if(a.id)c="#"+a.id;else{var d;if(a.parentElement){var e;a:{var f=a.parentElement;if(f){for(var h=0;h<f.childElementCount;h++)if(f.children[h]===a){e=h+1;break a}e=-1}else e=1}d=ue(a.parentElement)+">:nth-child("+e+")"}else d="";c=d}b=c}return b}
 var xe=function(){var a=!0;var b=a,c;var d=[],e=H.body;if(e){for(var f=e.querySelectorAll("*"),h=0;h<f.length&&1E4>h;h++){var k=f[h];if(!(0<=se.indexOf(k.tagName.toUpperCase()))){for(var l=!1,q=0;q<k.childElementCount&&1E4>q;q++)if(!(0<=te.indexOf(k.children[q].tagName.toUpperCase()))){l=!0;break}l||d.push(k)}}c={elements:d,status:1E4<f.length?"2":"1"}}else c=
 {elements:d,status:"4"};for(var r=c,n=r.elements,t=[],p=0;p<n.length;p++){var u=n[p],v=u.textContent;u.value&&(v=u.value);if(v){var w=v.match(qe);if(w){var y=w[0],x;if(G.location){var z=le(G.location,"host",!0);x=0<=y.toLowerCase().indexOf(z)}else x=!1;x||t.push({element:u,Mc:y})}}}var A;for(var B=[],D=10<t.length?"3":r.status,F=0;F<t.length&&
-10>F;F++){var K=t[F].element,P=t[F].Mc,T=!1;B.push({Mc:P,querySelector:ue(K),tagName:K.tagName,isVisible:!$d(K),type:1,zc:!!T})}return{elements:B,status:D}};var Le={},L=null,Me=Math.random();Le.D="G-L1FJR9DSDZ";Le.kc="1d0";Le.oi="";Le.Jf="";var Ne={__cl:!0,__ecl:!0,__ehl:!0,__evl:!0,__fal:!0,__fil:!0,__fsl:!0,__hl:!0,__jel:!0,__lcl:!0,__sdl:!0,__tl:!0,__ytl:!0},Oe={__paused:!0,__tg:!0},Pe;for(Pe in Ne)Ne.hasOwnProperty(Pe)&&(Oe[Pe]=!0);var Qe="www.googletagmanager.com/gtm.js";Qe="www.googletagmanager.com/gtag/js";
+10>F;F++){var K=t[F].element,P=t[F].Mc,T=!1;B.push({Mc:P,querySelector:ue(K),tagName:K.tagName,isVisible:!$d(K),type:1,zc:!!T})}return{elements:B,status:D}};var Le={},L=null,Me=Math.random();Le.D="G-ZZSG4J04DE";Le.kc="1d0";Le.oi="";Le.Jf="";var Ne={__cl:!0,__ecl:!0,__ehl:!0,__evl:!0,__fal:!0,__fil:!0,__fsl:!0,__hl:!0,__jel:!0,__lcl:!0,__sdl:!0,__tl:!0,__ytl:!0},Oe={__paused:!0,__tg:!0},Pe;for(Pe in Ne)Ne.hasOwnProperty(Pe)&&(Oe[Pe]=!0);var Qe="www.googletagmanager.com/gtm.js";Qe="www.googletagmanager.com/gtag/js";
 var Re=Qe,Se=Sa(""),Te=null,Ue=null,Ve="//www.googletagmanager.com/a?id="+Le.D+"&cv=1",We={},Xe={},Ye=function(){var a=L.sequence||1;L.sequence=a+1;return a};var Ze={},$e=new Ia,af={},bf={},ef={name:"dataLayer",set:function(a,b){m(eb(a,b),af);cf()},get:function(a){return df(a,2)},reset:function(){$e=new Ia;af={};cf()}},df=function(a,b){return 2!=b?$e.get(a):ff(a)},ff=function(a){var b,c=a.split(".");b=b||[];for(var d=af,e=0;e<c.length;e++){if(null===d)return!1;if(void 0===d)break;d=d[c[e]];if(-1!==Ea(b,d))return}return d},gf=function(a,b){bf.hasOwnProperty(a)||($e.set(a,b),m(eb(a,b),af),cf())},cf=function(a){Ka(bf,function(b,c){$e.set(b,c);m(eb(b,
 void 0),af);m(eb(b,c),af);a&&delete bf[b]})},hf=function(a,b,c){Ze[a]=Ze[a]||{};var d=1!==c?ff(b):$e.get(b);"array"===hb(d)||"object"===hb(d)?Ze[a][b]=m(d):Ze[a][b]=d},jf=function(a,b){if(Ze[a])return Ze[a][b]},kf=function(a,b){Ze[a]&&delete Ze[a][b]};var pf={},qf=function(a,b){if(G._gtmexpgrp&&G._gtmexpgrp.hasOwnProperty(a))return G._gtmexpgrp[a];void 0===pf[a]&&(pf[a]=Math.floor(Math.random()*b));return pf[a]};var rf=function(a){var b=1,c,d,e;if(a)for(b=0,d=a.length-1;0<=d;d--)e=a.charCodeAt(d),b=(b<<6&268435455)+e+(e<<14),c=b&266338304,b=0!=c?b^c>>21:b;return b};function sf(a,b,c){for(var d=[],e=b.split(";"),f=0;f<e.length;f++){var h=e[f].split("="),k=h[0].replace(/^\s*|\s*$/g,"");if(k&&k==a){var l=h.slice(1).join("=").replace(/^\s*|\s*$/g,"");l&&c&&(l=decodeURIComponent(l));d.push(l)}}return d};var uf=function(a,b,c,d){return tf(d)?sf(a,String(b||document.cookie),c):[]},xf=function(a,b,c,d,e){if(tf(e)){var f=vf(a,d,e);if(1===f.length)return f[0].id;if(0!==f.length){f=wf(f,function(h){return h.uc},b);if(1===f.length)return f[0].id;f=wf(f,function(h){return h.Mb},c);return f[0]?f[0].id:void 0}}};function yf(a,b,c,d){var e=document.cookie;document.cookie=a;var f=document.cookie;return e!=f||void 0!=c&&0<=uf(b,f,!1,d).indexOf(c)}
 var Cf=function(a,b,c){function d(p,u,v){if(null==v)return delete h[u],p;h[u]=v;return p+"; "+u+"="+v}function e(p,u){if(null==u)return delete h[u],p;h[u]=!0;return p+"; "+u}if(!tf(c.va))return 2;var f;void 0==b?f=a+"=deleted; expires="+(new Date(0)).toUTCString():(c.encode&&(b=encodeURIComponent(b)),b=zf(b),f=a+"="+b);var h={};f=d(f,"path",c.path);var k;c.expires instanceof Date?k=c.expires.toUTCString():null!=c.expires&&(k=""+c.expires);f=d(f,"expires",k);f=d(f,"max-age",c.Gi);f=d(f,"samesite",
